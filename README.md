@@ -50,8 +50,8 @@ ap1 componentes/
 ## Como Rodar o Projeto
 
 1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/kailanscena/AP1-DAOC.git
+   ```
+   git clone https://github.com/kailanscena/AP1-DAOC.git](https://github.com/guibirlem/SPA-train-store
    ```
 
 2. **Abra a pasta do projeto no VS Code ou outro editor.**
