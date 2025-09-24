@@ -51,7 +51,7 @@ ap1 componentes/
 
 1. **Clone o repositório:**
    ```
-   git clone https://github.com/kailanscena/AP1-DAOC.git](https://github.com/guibirlem/SPA-train-store
+  git clone https://github.com/guibirlem/SPA-train-store
    ```
 
 2. **Abra a pasta do projeto no VS Code ou outro editor.**
